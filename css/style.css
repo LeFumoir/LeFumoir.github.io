@@ -783,7 +783,6 @@ footer.relative-footer {
 	left:0;
 	bottom:0;
 	position:relative;
-	margin-top: 10%;
 	padding:70px 20px 0;
 }
 footer.fixed-footer:before {
